@@ -1,0 +1,7 @@
+tkinter
+opencv-python
+mediapipe
+numpy
+tensorflow
+keras
+scikit
